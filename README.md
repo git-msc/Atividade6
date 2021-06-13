@@ -20,4 +20,5 @@
 15. Realização de push no GitHub na origin dev
 16. Exclusão do arquivo4.js
 17. Alteração da primeira linha (de ```console.log("commit um")``` para ```console.log("commit um_alterado para commit seis")```)
-18. Saída da brench dev e entrada na brench main
+18. Realização do sexto commit na brench dev (commit seis)
+19. Saída da brench dev e entrada na brench main
