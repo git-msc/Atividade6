@@ -12,7 +12,9 @@
 7. Realização do primeiro commit na branch main (commit um)
 8. Criação do arquivo 3.js
 9. Inserção da linha ```console.log("commit dois")``` no arquivo3.js
-10. Realização do segundo commit na branch main (commit dois)
-11. Criação da tag 1.0 com a mensagem "versão de início"
-12. Realização de push no GitHub na origin main incluindo a tag 1.0
-13. Criação da branch dev
+10. Adição do arquivo3.js na branch main
+11. Realização do segundo commit na branch main (commit dois)
+12. Criação da tag 1.0 com a mensagem "versão de início"
+13. Realização de push no GitHub na origin main incluindo a tag 1.0
+14. Criação da branch dev
+15. Saída da brench main e entrada na brench dev
