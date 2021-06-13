@@ -15,3 +15,9 @@
 10. Realização de push no GitHub na origin dev
 11. Criação da brench temp
 12. Saída da brench dev e entrada a brench temp
+
+14. Merge das brenches temp e dev
+15. Realização de push no GitHub na origin dev
+16. Exclusão do arquivo4.js
+17. Alteração da primeira linha (de ```console.log("commit um")``` para ```console.log("commit um_alterado para commit seis")```)
+18. Saída da brench dev e entrada na brench main
