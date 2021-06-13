@@ -19,5 +19,5 @@
 14. Criação da branch dev
 15. Saída da brench main e entrada na brench dev
 16. Merge das brenches dev e main
-17. Criação da tag 1.1 coma mensagem "versão de entrega"
+17. Criação da tag 1.1 com a mensagem "versão de entrega"
 18. Realização de push no GitHub na origin main incluindo a tag 1.1
