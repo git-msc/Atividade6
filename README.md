@@ -11,7 +11,7 @@ console.log("commit três")
 19. Remoção do arquivo2.js na branch dev (`git rm arquivo2.js`)
 20. Adição do arquivo4.js na branch dev (`git add arquivo4.js`)
 21. Realização do terceiro commit na brench dev (`git commit -m "três"`) 
-22. Adição da linha abaixo no arquivo1.js
+22. Adição da linha abaixo no arquivo1.js:
 ```JavaScript
 console.log("commit quatro")
 ```
@@ -40,4 +40,5 @@ console.log("commit um_alterado para commit seis")
 42. Adição do arquivo1.js na brench dev (`git add arquivo1.js`)
 43. Realização do sexto commit na brench dev (`git commit -m "seis")
 44. Saída da brench dev e entrada na brench main
+
 >***Passos 45 a 47 na brench main***
