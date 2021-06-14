@@ -26,9 +26,13 @@ console.log("commit dois")
 13. Realização de push no GitHub na origin main incluindo a tag 1.0 (`git push origin main --tags 1.0`)
 14. Criação da brench dev (`git brench dev`)
 15. Saída da brench main e entrada na brench dev (`git brench checkout dev`)
+
 >***Passos 16 a 27 na brench dev***
+
 >***Passos 28 a 36 na brench temp***
+
 >***Passos 37 a 44 na brench dev***
+
 45. Merge das brenches dev e main (`brench merge main dev`)
 46. Criação da tag 1.1 com a mensagem "versão de entrega" (`git tag -a 1.1 -m "versão de entrega"`)
 47. Realização de push no GitHub na origin main incluindo a tag 1.1 (`git push origin main --tags 1.1`)
