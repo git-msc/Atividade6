@@ -38,7 +38,7 @@ console.log("commit um_alterado para commit seis")
 ```
 41. Remoção do arquivo4.js na branch dev (`git rm arquivo4.js`)
 42. Adição do arquivo1.js na branch dev (`git add arquivo1.js`)
-43. Realização do sexto commit na branch dev (`git commit -m "seis")
+43. Realização do sexto commit na branch dev (`git commit -m "seis"`)
 44. Saída da branch dev e entrada na branch main
 
 >***Passos 45 a 47 na branch main***
