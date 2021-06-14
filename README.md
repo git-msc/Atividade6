@@ -40,3 +40,4 @@ console.log("commit um_alterado para commit seis")
 42. Adição do arquivo1.js na brench dev (`git add arquivo1.js`)
 43. Realização do sexto commit na brench dev (`git commit -m "seis")
 44. Saída da brench dev e entrada na brench main
+>***Passos 45 a 47 na brench main***
