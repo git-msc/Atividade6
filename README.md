@@ -12,16 +12,16 @@ console.log("commit um")
 ```JavaScript
 console.log("commit um")
 ```
-05. Adição do arquivo1.js na branch main (`git add arquivo1.js`)
-06. Adição do arquivo2.js na branch main (`git add arquivo2.js`)
-07. Realização do primeiro commit na branch main (`git commit -m "um"`)
+05. Adição do arquivo1.js na brench main (`git add arquivo1.js`)
+06. Adição do arquivo2.js na brench main (`git add arquivo2.js`)
+07. Realização do primeiro commit na brench main (`git commit -m "um"`)
 08. Criação do arquivo3.js
 09. Inserção da linha abaixo no arquivo3.js: 
 ```JavaScript
 console.log("commit dois")
 ```
-10. Adição do arquivo3.js na branch main (`git add arquivo3.js`)
-11. Realização do segundo commit na branch main (`git commit -m "dois"`)
+10. Adição do arquivo3.js na brench main (`git add arquivo3.js`)
+11. Realização do segundo commit na brench main (`git commit -m "dois"`)
 12. Criação da tag 1.0 com a mensagem "versão de início" (`git tag -a 1.0 -m "versão de início"`)
 13. Realização de push no GitHub na origin main incluindo a tag 1.0 (`git push origin main --tags 1.0`)
 14. Criação da brench dev (`git brench dev`)
