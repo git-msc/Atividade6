@@ -16,7 +16,7 @@ console.log("commit um")
 06. Adição do arquivo2.js na branch main (`git add arquivo2.js`)
 07. Realização do primeiro commit na branch main (`git commit -m "um"`)
 08. Criação do arquivo3.js
-09. Inserção da linha abaixo no arquivo3.js 
+09. Inserção da linha abaixo no arquivo3.js: 
 ```JavaScript
 console.log("commit dois")
 ```
