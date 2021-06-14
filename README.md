@@ -23,10 +23,10 @@ console.log("commit quatro")
 
 >***Passos 28 a 36 na brench temp***
 
-39. Merge das brenches temp e dev (`git merge dev temp`)
-40. Realização de push no GitHub na origin dev (`git push origin dev`)
-41. Exclusão do arquivo4.js
-42. Alteração da primeira linha do arquivo1.js 
+37. Merge das brenches temp e dev (`git merge dev temp`)
+38. Realização de push no GitHub na origin dev (`git push origin dev`)
+39. Exclusão do arquivo4.js
+40. Alteração da primeira linha do arquivo1.js 
 
 De: 
 ```JavaScript
@@ -36,7 +36,7 @@ Para:
 ```JavaScript 
 console.log("commit um_alterado para commit seis")
 ```
-43. Remoção do arquivo4.js na brench dev (`git rm arquivo4.js`)
-44. Adição do arquivo1.js na brench dev (`git add arquivo1.js`)
-45. Realização do sexto commit na brench dev (`git commit -m "seis")
-46. Saída da brench dev e entrada na brench main
+41. Remoção do arquivo4.js na brench dev (`git rm arquivo4.js`)
+42. Adição do arquivo1.js na brench dev (`git add arquivo1.js`)
+43. Realização do sexto commit na brench dev (`git commit -m "seis")
+44. Saída da brench dev e entrada na brench main
