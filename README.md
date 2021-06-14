@@ -36,3 +36,16 @@ console.log("commit dois")
 45. Merge das branches dev e main (`git merge main dev`)
 46. Criação da tag 1.1 com a mensagem "versão de entrega" (`git tag -a 1.1 -m "versão de entrega"`)
 47. Realização de push no GitHub na origin main incluindo a tag 1.1 (`git push origin main --tags 1.1`)
+48. Inserção da linha abaixo no arquivo1.js:
+```JavaScript
+console.log("Issue #1")
+```
+49. Inserção da linha abaixo no arquivo5.js:
+```JavaScript
+console.log("Issue #2")
+```
+50. Adição do arquivo1.js na branch main (`git add arquivo1.js`)
+51. Adição do arquivo5.js na branch main (`git add arquivo5.js`)
+52. Realização do sétimo commit na branch main (`git commit -m "sete"`)
+53. Realização de pull do GitHub na origin main (`git pull origin main`)
+54. Realização de push no GitHub na origin main (`git push origin main`)
