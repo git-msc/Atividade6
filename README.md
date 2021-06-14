@@ -33,6 +33,6 @@ console.log("commit dois")
 
 >***Passos 37 a 44 na branch dev***
 
-45. Merge das branches dev e main (`branch merge main dev`)
+45. Merge das branches dev e main (`git merge main dev`)
 46. Criação da tag 1.1 com a mensagem "versão de entrega" (`git tag -a 1.1 -m "versão de entrega"`)
 47. Realização de push no GitHub na origin main incluindo a tag 1.1 (`git push origin main --tags 1.1`)
