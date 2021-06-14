@@ -1,6 +1,6 @@
 # Atividade6
 
-## Branch main
+## Brench main
 
 01. Criação do arquivo1.js
 02. Inserção da linha abaixo no arquivo1.js:
