@@ -17,3 +17,4 @@ console.log("commit cinco")
 34. Realização do quinto commit na brench temp (`git commit -m "cinco"`)
 35. Realização de push no GitHub na origin temp (`git push origin temp`)
 36. Saída da brench temp e entrada na brench dev (`git checkout dev`)
+>***Passos 37 a 44 na brench dev***
